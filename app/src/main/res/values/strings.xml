@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application 10</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="find">Find</string>
+</resources>
